@@ -8,7 +8,8 @@ Contact page: A straightforward form for users to get in touch with me directly.
 Technologies Used:
 HTML: For the structure and layout of the website.
 CSS: For styling and creating a visually appealing design.
+
 Visit My Portfolio:
-Click here to view my portfolio
+
 
 Feel free to explore my portfolio and reach out through the contact page!
